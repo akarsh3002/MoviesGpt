@@ -28,7 +28,7 @@ const VideoBackground = ({ movieId }) => {
 
       <button
         onClick={() => setIsMuted((prev) => !prev)}
-        className="absolute bottom-10 right-10 z-20 rounded-full bg-black/60 px-4 py-3 text-white hover:bg-black/80"
+        className="absolute bottom-25 right-10 z-20 rounded-full bg-black/60 px-4 py-3 text-white hover:bg-black/80"
       >
         {isMuted ? "🔇" : "🔊"}
       </button>
