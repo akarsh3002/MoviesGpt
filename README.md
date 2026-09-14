@@ -1,3 +1,4 @@
+Deployed URL on firebase - https://moviesgpt-61abb.web.app
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
